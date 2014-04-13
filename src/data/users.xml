@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- (Groups, PointsPerUser) -->
+<data>
+    <group name="grup1" points="10" />
+    <group name="grup2" points="20" />
+    <group name="grup3" points="5" />
+</data>
